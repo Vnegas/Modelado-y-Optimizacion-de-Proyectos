@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marvin Lisandro\\Desktop\\Proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B240A8C-9A4F-2F25-B643-F3DEB7EEFA22}|Assembly-CSharp.csproj|c:\\users\\marvin lisandro\\desktop\\proyecto\\assets\\scripts\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B240A8C-9A4F-2F25-B643-F3DEB7EEFA22}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B240A8C-9A4F-2F25-B643-F3DEB7EEFA22}|Assembly-CSharp.csproj|c:\\users\\marvin lisandro\\desktop\\proyecto\\assets\\scripts\\simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B240A8C-9A4F-2F25-B643-F3DEB7EEFA22}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B240A8C-9A4F-2F25-B643-F3DEB7EEFA22}|Assembly-CSharp.csproj|C:\\Users\\Marvin Lisandro\\Desktop\\Proyecto\\assets\\scripts\\panelopener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B240A8C-9A4F-2F25-B643-F3DEB7EEFA22}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\panelopener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B240A8C-9A4F-2F25-B643-F3DEB7EEFA22}|Assembly-CSharp.csproj|C:\\Users\\Marvin Lisandro\\Desktop\\Proyecto\\assets\\scripts\\positioninlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B240A8C-9A4F-2F25-B643-F3DEB7EEFA22}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\positioninlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Simulation.cs",
+              "DocumentMoniker": "C:\\Users\\Marvin Lisandro\\Desktop\\Proyecto\\Assets\\Scripts\\Simulation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Simulation.cs",
+              "ToolTip": "C:\\Users\\Marvin Lisandro\\Desktop\\Proyecto\\Assets\\Scripts\\Simulation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Simulation.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAawPgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T21:58:38.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PositionInLineController.cs",
+              "DocumentMoniker": "C:\\Users\\Marvin Lisandro\\Desktop\\Proyecto\\Assets\\Scripts\\PositionInLineController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PositionInLineController.cs",
+              "ToolTip": "C:\\Users\\Marvin Lisandro\\Desktop\\Proyecto\\Assets\\Scripts\\PositionInLineController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PositionInLineController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:42:07.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PanelOpener.cs",
+              "DocumentMoniker": "C:\\Users\\Marvin Lisandro\\Desktop\\Proyecto\\Assets\\Scripts\\PanelOpener.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PanelOpener.cs",
+              "ToolTip": "C:\\Users\\Marvin Lisandro\\Desktop\\Proyecto\\Assets\\Scripts\\PanelOpener.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PanelOpener.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:42:06.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\Marvin Lisandro\\Desktop\\Proyecto\\Assets\\Scripts\\Agent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Agent.cs",
+              "ToolTip": "C:\\Users\\Marvin Lisandro\\Desktop\\Proyecto\\Assets\\Scripts\\Agent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Agent.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAwwJYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T21:59:11.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
